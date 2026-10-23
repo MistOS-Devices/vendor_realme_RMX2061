@@ -483,4 +483,5 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2061/proprietary/vendor/lib64/vendor.oplus.hardware.commondcs@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.oplus.hardware.commondcs@1.0.so
 
 PRODUCT_PACKAGES += \
+    libswdap \
     manifest_oplus_orms
